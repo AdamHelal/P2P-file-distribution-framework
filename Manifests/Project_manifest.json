@@ -1,0 +1,50 @@
+{
+    "numChunks": 3,
+    "md5Checksum": "6371a0e0f4a43e8b85c964116dd6d4a9",
+    "ports": {
+        "5001": {
+            "chunks": [
+                {
+                    "name": "Project_chunk1.docx",
+                    "id": 1,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5001
+                },
+                {
+                    "name": "Project_chunk3.docx",
+                    "id": 3,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5001
+                },
+                {
+                    "name": "Project_chunk2.docx",
+                    "id": 3,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5001
+                }
+            ]
+        },
+        "5002": {
+            "chunks": [
+                {
+                    "name": "Project_chunk2.docx",
+                    "id": 2,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5002
+                },
+                {
+                    "name": "Project_chunk3.docx",
+                    "id": 3,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5002
+                },
+                {
+                    "name": "Project_chunk1.docx",
+                    "id": 3,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5002
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "numChunks": 3,
+    "md5Checksum": "6bc2255cb365b35563cbccd5d4e05aac",
+    "ports": {
+        "5002": {
+            "chunks": [
+                {
+                    "name": "rating-3_chunk1.png",
+                    "id": 1,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5002
+                },
+                {
+                    "name": "rating-3_chunk3.png",
+                    "id": 3,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5002
+                },
+                {
+                    "name": "rating-3_chunk2.png",
+                    "id": 3,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5002
+                }
+            ]
+        },
+        "5001": {
+            "chunks": [
+                {
+                    "name": "rating-3_chunk1.png",
+                    "id": 1,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5001
+                },
+                {
+                    "name": "rating-3_chunk2.png",
+                    "id": 2,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5001
+                },
+                {
+                    "name": "rating-3_chunk3.png",
+                    "id": 2,
+                    "IP_Address": "127.0.0.1",
+                    "port": 5001
+                }
+            ]
+        }
+    }
+}
