@@ -29,4 +29,4 @@ python app.py
 - [Youssef Itani](https://github.com/ymi05)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
